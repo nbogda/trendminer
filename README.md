@@ -1,10 +1,13 @@
 # trendminer
-Code from the Trendminder project I did for CURENT Spring 2017
+<p>Code from the Trendminder project I did for CURENT Spring 2017</p>
 
-This project came in several parts:
+<p>The overall goal of this project is to analyze trends during the 2016 election cycle.</p>
 
-First, mine the data and then run sentiment analysis on it with Python.
-The sentiment analysis was just me using a Python library: TextBlob. It returns a value between -1 and 1 when called on a string. The more positive the value, the more positive the sentiment.
+<p>The trends were split between social and mainstream media, because we wanted to see if there was a difference in opinion between social and mainstream media outlets.</p>
+
+<p>The data was analysed to look for changes in sentiment and topics over time.</p>
+
+<p>The sentiment analysis was done using the Python library TextBlob. The senitment analysis returns a value between -1 and 1 when called on a string. The more positive the value, the more positive the sentiment.</p>
 
 <h3> What is inside </h3>
 
