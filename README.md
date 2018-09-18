@@ -34,5 +34,5 @@ The sentiment analysis was just me using a Python library: TextBlob. It returns 
   
 
 
-<p><h3>The graphs can be found <a href="http://seelab.eecs.utk.edu/trendminer">here</a></h3></p>
+<p><h3><a href="http://seelab.eecs.utk.edu/trendminer">Follow this link to see the graphs.</a></h3></p>
 
