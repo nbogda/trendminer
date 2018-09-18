@@ -17,7 +17,7 @@ The sentiment analysis was just me using a Python library: TextBlob. It returns 
     <li><b>talk</b>: Contains the code used to analyze and visualize the coverage of topics by each candidate in media over time.</li>
     <li><b>top</b>: Contains the code used to analyze and visualize the sentiment towards the coverage of topics by each candidate in media over time.</li></ul>
     
-<p> Each directory contains the same few files. </p>
+<p><b> Each directory contains the same few files. </b></p>
 
 <ol><li>A Python program that does the analysis by pulling data from /export3/duggan/social/2015 (and 2016) (These directories should be on one of the three machines (ex: accona)</li>
 <li>A JSON file produced from running the Python code that contains the formatted data that will be graphed in the Javascript program</li>
