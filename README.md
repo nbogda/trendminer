@@ -27,6 +27,8 @@ The sentiment analysis was just me using a Python library: TextBlob. It returns 
   <li>Additionally, the top level directory contains an index.html file, and a css and js file that are used to create the main menu</li>
   </ol>
   
+  <b>Note:</b> The <b>med</b> directory contains one additional Python program <i>parse.py</i> which is used to take the results from the JSON file and plot them into a histogram. This histogram is saved as a .png file. It can be run using <i>python parse.py</i>
+  
 <h3>How to run</h3>
 <p>Just go into any directory and run a python program. For example, to run "candidates.py", just type <i>python candidates.py</i>. It should produce a JSON file that can be used by main.js to create the graphs that will be hosted on the page linked below.</p> 
   
