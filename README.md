@@ -1,7 +1,7 @@
 # trendminer
 <p>Code from the Trendminder project I did for CURENT Spring 2017</p>
 
-<p>The overall goal of this project is to analyze trends during the 2016 election cycle.</p>
+<p>The overall goal of this project was to analyze trends during the 2016 election cycle.</p>
 
 <p>The trends were split between social and mainstream media, because we wanted to see if there was a difference in opinion between social and mainstream media outlets.</p>
 
